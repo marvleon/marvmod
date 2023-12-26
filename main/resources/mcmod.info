@@ -1,0 +1,16 @@
+[
+{
+  "modid": "marvmod",
+  "name": "Marv Mod",
+  "description": "Da Marv Mod pack!!!.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
